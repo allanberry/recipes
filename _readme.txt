@@ -5,3 +5,4 @@ Unless otherwise stated:
     * milk is whole
     * eggs are large
     * flour is unbleached, all-purpose
+    * yogurt is plain
